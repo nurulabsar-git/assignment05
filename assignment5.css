@@ -16,7 +16,7 @@ body{
     font-family: 'Poppins', sans-serif;
 }
 
-/*  */
+
 .btn{
     font-family: inherit;
     cursor: pointer;
@@ -31,7 +31,7 @@ body{
     margin-bottom: 1rem;
 }
 
-/*  */
+
 .container{
     min-height: 100vh;
 }
@@ -123,7 +123,7 @@ body{
     background: var(--tenne-tawny-dark);
 }
 
-/* meal details */
+
 .meal-details{
     position: fixed;
     top: 50%;
@@ -156,7 +156,6 @@ body{
     
 }
 
-/* Media Queries */
 @media screen and (min-width: 600px){
     .meal-search-box{
         width: 540px;
