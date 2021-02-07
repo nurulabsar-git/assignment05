@@ -189,13 +189,13 @@ body{
     display: block;
 }
 
-.meal-details-content{
+#meal-details-content{
     margin: 2rem;
 }
-.meal-details-content p:not(.recipe-category){
+#meal-details-content p:not(.recipe-category){
     padding: 1rem 0;
 }
-.recipe-close-btn{
+#recipe-close-btn{
     position: absolute;
     right: 2rem;
     top: 2rem;
